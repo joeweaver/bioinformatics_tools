@@ -1,0 +1,181 @@
+LOCUS       JADZBX010000001.1       3015 bp    DNA              UNK 01-JAN-1980
+DEFINITION  JADZBX010000001.1 MAG: Candidatus Brocadia sp. isolate SJ698
+            c_000000000622, whole genome shotgun sequence.
+ACCESSION   JADZBX010000001
+VERSION     JADZBX010000001.1
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     CDS             1..1377
+                     /ID="1_2"
+                     /partial="00"
+                     /start_type="ATG"
+                     /rbs_motif="GGA/GAG/AGG"
+                     /rbs_spacer="5-10bp"
+                     /gc_cont="0.429"
+                     /conf="100.00"
+                     /score="106.01"
+                     /score="106.0"
+                     /cscore="103.10"
+                     /sscore="2.92"
+                     /rscore="0.88"
+                     /uscore="-0.89"
+                     /tscore="3.57"
+                     /source="Prodigal_v2.6.3"
+                     /phase="0"
+     CDS             1765..3015
+                     /ID="1_4"
+                     /partial="00"
+                     /start_type="ATG"
+                     /rbs_motif="GGA/GAG/AGG"
+                     /rbs_spacer="5-10bp"
+                     /gc_cont="0.400"
+                     /conf="100.00"
+                     /score="82.95"
+                     /score="82.9"
+                     /cscore="72.58"
+                     /sscore="10.37"
+                     /rscore="0.88"
+                     /uscore="4.76"
+                     /tscore="3.57"
+                     /source="Prodigal_v2.6.3"
+                     /phase="0"
+ORIGIN
+        1 atgcctatgg aaaagtttat cgtaacatta aagaccgtca cgccgttatt tcttggcggg
+       61 gcagagccag taaagccggt tgaactccgt gcgccttcaa tcaaagggat gatgagattc
+      121 tggtataggg cgatgcatgg ggaatcgtca ctagaaaaat tatataaaaa agaagcgtct
+      181 ctttttggcg gaagcggtga tggagaagga agaagcaggg ttgtaataag aatgccttcg
+      241 cctttgaata aagatgaggt gaaagacagt ctgtgggatg tgattcctca taaaaacgag
+      301 gtttcaaaga aaggagtttc gtatcttgtt ccaaccgata aatctgccgg cattttctac
+      361 ctcctctatt caatgctgct tcccaggcga gaacgaccat ttataaaggc agattcctca
+      421 gggtttcaga taatccttca atcccatgac acgaatgcct taaagcaatc ccttgcaagc
+      481 ctctggtgtg ccgtgtatat ggggggtttt ggtgcaagat caagacgtgg tggcggcaat
+      541 gttgtggcaa ccgacattca tgctatttca aagcgcaatg atttttcctt gaactttgtt
+      601 ccggcagggg aaaacagcca ggaagttgcc aactggctta cctccaattt tcatgaggca
+      661 aagggtataa tttcaggcgg caagaacgat tggatatcaa cctattcaaa cctgagtctt
+      721 tcccgattca taatctgccg gaattgtaaa acaacatggc ttgaggctct caatgaagtt
+      781 ggaacgatat tcaaggagtt tcgaaattcg cataaacatg atatatgggg tacagcctct
+      841 tttggattgc ctgttgtgca tgggataaga acaggaaaca gaatgacggt aaaaggtagt
+      901 attcagaaaa ccgacatgga acgcaggggt tcgccgctga tttttaaaat catcagggta
+      961 aaaaatagtt attactggtt cgttttacgg cttgccggcg aatttttgcc tgaaggcggt
+     1021 gtaataaaag caaacagtgt tactcaaaaa cccgactacc aattgctgga cgaattctgg
+     1081 tcaaagttaa agaacaaggg ggaagaatat atactttcaa aaccccaggg acttcatgat
+     1141 ttgacagaaa aaataaaaaa ggcagtggat cctgaaaaga ttatcctcta cggttcaagg
+     1201 gcaaggggtg attttcaccg gcattccgat acggatattg ccgttgagac gaatgaaacc
+     1261 atagaggata taaaagcagc aggcgccgta gatatcgtta attacaggaa gattgataaa
+     1321 agactaaagg ataaaataga caaagaaggt gtgacggtat atgagagaaa gagttgaaag
+     1381 attttttgtt gattttgcaa aggcggtaaa gaatcttgac acggctattg ataccgctat
+     1441 cgatgaactt gatatggacg gcaccattaa acggtttgag ttgtgttatg aactttcatg
+     1501 gaagttaata aaggagtatc ttgcggataa gggcgtaatc gtcaaaaatc caagagattg
+     1561 ttttaaagag gcattcgcaa ataatcttat ccataatgaa gatgtatggg taaagatgct
+     1621 ggaagacaga aattatctgg tgcacaccta cacatttgag gagtcaagga agatatttgg
+     1681 gcatataaag gatttgtatt tgtcagaatt taagcatctc tataaaatag tagatcaatc
+     1741 agatataaga tgagatagac caccatggaa agacttgtgg taaccttgaa gaccattacg
+     1801 ccgcttttcc tcggcggggc agaacctgat aaatgggcag aactccgtgc gccatctatc
+     1861 aaaggggcga tgagattctg gtatcgggcg attgatgcag attgcaatga aagagttgag
+     1921 ttagaaaaac atgattctcc aatatgggaa gataagattt ttgggagtac aaaaacggga
+     1981 aggggatgtt ttgccatgag attagaaaat gactctataa aaggtggcaa agagtggaac
+     2041 catgatgatt atccaaataa aaatggaatt cgttatcttt cattttccat gtgcatggga
+     2101 ggtaagcgac ggcggtatat tcctcccaat accaatattg ggattatcat aattttccat
+     2161 catcagccaa acaataagga gaaatattcc ctcctggcat cgttatggct gcttggccat
+     2221 attggcggat tgggaagccg ctcacgaagg gggcttggaa ccgtggcttt acaatcatgg
+     2281 ggaaattgtc ggtgggatga atgtaacaga ctgaagattg cccatggtgt taaaaccaga
+     2341 gatgaatggt ggaaaatatt taacgacgga ttgaatgttt tgaagacatg gtttccaaag
+     2401 ccaaacactg tagaccatag tgttattgat ggaaatacga aattcttttt attcggagat
+     2461 gggaaaaaag aatggcagaa agctttagat gaagcgggta ttgtattcca gaaattcaga
+     2521 caacgatgga atttaaggga tacatcaagt gattactaca gagtaatgga gcatcttgca
+     2581 tctcaggaac cagcatcaat taagaaaggt tcaaaaatta ctccgtgcaa aataagtgat
+     2641 tctcccgaac gtgttgcatt tggtctgcca ttgtccttta gatacaataa ttctttgaat
+     2701 aaaatcccaa aaaaggataa gagtggtaaa cccataatag atagaaatac aggaaagcca
+     2761 aaaatggaag cacccaatac aacctttgag ggtgaagaac acgacagaag cgcatctccg
+     2821 atacatatca ggattgttca gatagaggaa aatttctacc ctttttacat caggctcgat
+     2881 gcaccattac ttgaaaatag tgagcaaata aaagatagct atggaactgg ctatagtaaa
+     2941 ccgacaggca aaattcttga taccttctgg aatgaattga agaaaaacaa tggcaaggaa
+     3001 aagacatgga aataa
+//
+LOCUS       JADZBX010000010.1        237 bp    DNA              UNK 01-JAN-1980
+DEFINITION  JADZBX010000010.1 MAG: Candidatus Brocadia sp. isolate SJ698
+            c_000000018223, whole genome shotgun sequence.
+ACCESSION   JADZBX010000010
+VERSION     JADZBX010000010.1
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     CDS             1..237
+                     /ID="10_4"
+                     /partial="00"
+                     /start_type="ATG"
+                     /rbs_motif="AGGAGG"
+                     /rbs_spacer="5-10bp"
+                     /gc_cont="0.435"
+                     /conf="99.92"
+                     /score="31.19"
+                     /score="31.2"
+                     /cscore="13.32"
+                     /sscore="17.87"
+                     /rscore="12.19"
+                     /uscore="2.33"
+                     /tscore="3.34"
+                     /source="Prodigal_v2.6.3"
+                     /phase="0"
+ORIGIN
+        1 atgaaacaag cgttgatagc accttgtatc atattttgca tcttttcgct tggatgcaaa
+       61 acggaacaca aagtggaact ggaagtaaag ccgatgcaaa ttacgatcga tgtaaatatt
+      121 cgtatcgatc gtcaacttga agatttcttt ggcagcctgg atgaagcggc aaaaagtatc
+      181 agcggggaaa caacggaagc ggggaaaact gaagattcac agaagccggc ccaatag
+//
+LOCUS       JADZBX010000042.1       1281 bp    DNA              UNK 01-JAN-1980
+DEFINITION  JADZBX010000042.1 MAG: Candidatus Brocadia sp. isolate SJ698
+            c_000000095523, whole genome shotgun sequence.
+ACCESSION   JADZBX010000042
+VERSION     JADZBX010000042.1
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     CDS             complement(1..1281)
+                     /ID="42_5"
+                     /partial="00"
+                     /start_type="GTG"
+                     /rbs_motif="GGA/GAG/AGG"
+                     /rbs_spacer="5-10bp"
+                     /gc_cont="0.436"
+                     /conf="100.00"
+                     /score="90.74"
+                     /score="90.7"
+                     /cscore="97.54"
+                     /sscore="-6.80"
+                     /rscore="0.88"
+                     /uscore="-1.08"
+                     /tscore="-6.60"
+                     /source="Prodigal_v2.6.3"
+                     /phase="0"
+ORIGIN
+        1 ttagtttttc gtaaaatcac gttttatccc ctcgagtttt actttcatgg tcattaatgc
+       61 ctcttcgctg cttgttcgat ttgacagtac cttgttaacg tgtttctgca aaatatcgct
+      121 tatccactgg tagcagggaa cgttcggtcg tatttgaaca tcgtgtaatg ccgattcaac
+      181 gacgggcagg aaaggcaatt tttcaaccag ttcctggtct ttatacaatg ctgttctgga
+      241 tggcatccat gacgcatgca tggccaattc cttttgtgct tcatgtgaag ttaaaaattg
+      301 aatcaactgc catgcctgtt cttttttccc tgaatatgca ttgatagcga gatgccagcc
+      361 accatacacc gatgccggtt ttccatcaga aaaccggggg agccgggata cgcccacctt
+      421 gcccttcatt gagggatctt cctggcataa tccccacaca taggtccagt ttctcaaaaa
+      481 caggcctttc ccctgttgaa agagatgccg ggaagactct tcctcaagtt cactataagt
+      541 gttttgcgga gatacacggt atttccatat caaatcgcgc atcagatcaa gcgccatggt
+      601 attgcgctcg gaatcgatga tgatatttcc tgtactgtca ataattccac cgtttttgct
+      661 gctaatgaat tcaataaagt tgcagatcaa cccttcatat tgttttccct gccagagata
+      721 cccgtacact gattcagacg ctgagatttg tgtgcagagc tcaataagtt cctcccacgt
+      781 gccgggcgga cgcatatgat acttttccaa caggtctttt ctgtagtata aaagacctac
+      841 gttagcattc cagggtatgg cgtacaaggt gccctgaaag acatttgttt tttccgttac
+      901 cggaataaag gacgtacggt ctgctttatt catacaatct tcaagagatt ccagccatcc
+      961 ggcagatgca aattcagcta tccagatagt atcaattctc atgatatcaa aacttttgtt
+     1021 tttcgctccc agggcggtaa ggtaataatg atgctgctga tctgtaggag cggggagagc
+     1081 atttatggtg acttttatgg tgggattttt tgcttcaaat tgttctataa gggtttttat
+     1141 aaccctgatt tcctctgtac cggctccgat agtgaaaacc aactcgtccg ttttttccgt
+     1201 ccgtaagaat gcataggcaa tccacacccc aacaaggaca taaacaaaca cgataattgt
+     1261 ttttttggga ttaaattcca c
+//

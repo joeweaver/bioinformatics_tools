@@ -10,7 +10,9 @@ def parse_args():
     parser.add_argument("-o", "--output", type=str, required=True, help="Output file (required)")
     return parser.parse_args()
 
+
 def annotate_gbk(gbk,annotations,defaults=None):
+    # first add default annotations if any
     def_records=[]
     for gbk_record in gbk:
         features = []
@@ -22,14 +24,16 @@ def annotate_gbk(gbk,annotations,defaults=None):
             gbk_record.features = features
         def_records.append(gbk_record)
 
+    # now go through and add explicit specific annotations
     records=[]
     for gbk_record in def_records:
         for note in annotations.iterrows():
-            if note[1][0] == gbk_record.name:
+            seq_name, by_qual, by_val, new_qual, new_val  = note[1][0], note[1][1], note[1][2], note[1][3], note[1][4]
+            if seq_name  == gbk_record.name:
                 features = []
                 for feat in gbk_record.features:
-                    if feat.qualifiers[note[1][1]][0] == note[1][2]:
-                        feat.qualifiers[note[1][3]] = [note[1][4]]
+                    if feat.qualifiers[by_qual][0] == by_val:
+                        feat.qualifiers[new_qual] = [new_val]
                     features.append(feat)
                 gbk_record.features= features
         records.append(gbk_record)
